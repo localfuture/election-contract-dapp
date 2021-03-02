@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Election Contract</h1>
+        <p>Ethereum Dapp</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
